@@ -1,0 +1,66 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+*.cache
+*.pnp
+*.tmp
+
+# User-specific files
+.vscode/
+.idea/
+.ionide/
+
+# Logs
+*.log
+logs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local configuration
+appsettings*.json
+
+# User secrets
+secrets.json
+
+# Node.js files
+node_modules/
+
+# Backup files
+*.bak
+*.swp
+
+# Publish output
+publish/
+wwwroot/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Others
+_ReSharper*/
+*.sln.docstates
