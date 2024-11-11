@@ -8,4 +8,4 @@ This project demonstrates the DoeTest API.
 
 Here’s an example of the request-response flow in Swagger:
 
-![The request-response in Swagger](images/sw_1.png)
+![The request-response in Swagger](images/sw_1.PNG)
